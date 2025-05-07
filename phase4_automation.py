@@ -3,8 +3,8 @@ import time
 import json
 import schedule
 from datetime import datetime
-from scraper import run_scraping  # Assume this is your scraping function
-from model import train_model, save_model, load_model  # From your previous code
+from phase2_scraper import run_scraping  # Assume this is your scraping function
+from phase3_model import train_model, save_model, load_model  # From your previous code
 
 # Function to run the scraping and model retraining process
 def run_automation():

@@ -1,0 +1,883 @@
+{
+  "search_metadata": {
+    "id": "681b9a8df30d13bfdb6abf55",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/816d5867a50fc548/681b9a8df30d13bfdb6abf55.json",
+    "created_at": "2025-05-07 17:38:21 UTC",
+    "processed_at": "2025-05-07 17:38:21 UTC",
+    "google_url": "https://www.google.com/search?q=best+food+in+ahmedabad&oq=best+food+in+ahmedabad&num=20&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/816d5867a50fc548/681b9a8df30d13bfdb6abf55.html",
+    "total_time_taken": 11.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best food in ahmedabad",
+    "google_domain": "google.com",
+    "num": "20",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best food in ahmedabad",
+    "total_results": 125000000,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "image": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/5a754159a3278dcd37d161aaeb343842.png",
+    "gps_coordinates": {
+      "latitude": 23.01702227,
+      "longitude": 72.5463295
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.6,
+        "reviews": 5400,
+        "reviews_original": "(5.4K)",
+        "price": "$$$$",
+        "description": "\"Mouthwatering flavors food, impeccable service, and a pleased atmosphere.\"",
+        "lsig": "AB86z5W1S_6AM1GW1oPb5NCY25KK",
+        "thumbnail": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/77b8418132430c614779e4e4ae4b2b94daf8843ae634b0999dde8240e6c94683466a844564e25e1b.jpeg",
+        "place_id": "9843088710605933462",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=9843088710605933462&num=20&q=best+food+in+ahmedabad",
+        "gps_coordinates": {
+          "latitude": 23.027393,
+          "longitude": 72.58184
+        },
+        "title": "Agashiye",
+        "type": "Gujarati",
+        "address": "the house of MG sidi saiyyed mosque",
+        "hours": "Closed \u22c5 Opens 11 AM Thu"
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews": 10000,
+        "reviews_original": "(10K)",
+        "price": "\u20b9200\u2013400",
+        "description": "\"Each dish was bursting with flavor and cooked to perfection.\"",
+        "lsig": "AB86z5UlQcY8XDdmlzfdfyDv1W2n",
+        "thumbnail": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/77b8418132430c614779e4e4ae4b2b94393e7405051ceb0c23e3dd068a6118e28d3a28aab421f8b0.jpeg",
+        "place_id": "4219791934753689669",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=4219791934753689669&num=20&q=best+food+in+ahmedabad",
+        "gps_coordinates": {
+          "latitude": 23.012337,
+          "longitude": 72.51095
+        },
+        "title": "Jassi De Parathe",
+        "type": "Punjabi",
+        "address": "107 & 108, Safal Pegasus, 106, 100 Feet Anand Nagar Rd",
+        "hours": "Closed \u22c5 Opens 11 AM Thu"
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews": 17000,
+        "reviews_original": "(17K)",
+        "price": "\u20b9200\u2013400",
+        "description": "\"The food, the ambiance and the service, all top notch.\"",
+        "lsig": "AB86z5Uw1xG2J7TZakHldnloXKWL",
+        "thumbnail": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/77b8418132430c614779e4e4ae4b2b945c99df438d3573f3e376d8707d262bc6aedf95796733bd8a.jpeg",
+        "place_id": "1173194178911334995",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=1173194178911334995&num=20&q=best+food+in+ahmedabad",
+        "gps_coordinates": {
+          "latitude": 23.035934,
+          "longitude": 72.51117
+        },
+        "title": "Gordhan Thal",
+        "type": "Gujarati",
+        "address": "Sapath Complex, Ground Floor, Sarkhej - Gandhinagar Hwy, Opposite Rajpath Club",
+        "hours": "Closed \u22c5 Opens 11 AM Thu"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=44785faec4b38403&tbm=lcl&q=best+food+in+ahmedabad&rflfq=1&num=10&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QjGp6BAg8EAE"
+  },
+  "knowledge_graph": {
+    "entity_type": "related_questions"
+  },
+  "related_questions": [
+    {
+      "question": "Which food is famous in Ahmedabad?",
+      "snippet": null,
+      "title": "10 local dishes to try in Ahmedabad | Times of India - Indiatimes",
+      "date": "Mar 29, 2025",
+      "link": "https://timesofindia.indiatimes.com/life-style/food-news/web-stories/10-local-dishes-to-try-in-ahmedabad/photostory/119661680.cms",
+      "list": [
+        "Mar 29, 2025. 10 local dishes to try in Ahmedabad. ... ",
+        "Exploring Ahmedabad: 10 must-try dishes. Ahmedabad, a lively city in Gujarat, is a paradise for food lovers. ... ",
+        "Khandvi. This delightful dish is a savoury snack that rolls up thin layers of gram flour into soft, flavourful goodness. ... ",
+        "Gathiya. ... ",
+        "Sev Usal. ... ",
+        "Farsan. ... ",
+        "Dhokla. ... ",
+        "Handvo."
+      ],
+      "displayed_link": "https://timesofindia.indiatimes.com \u203a life-style \u203a photostory",
+      "source_logo": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893271140c278cb944f67a2acbb65f308a674b9e68783a0294f7ebda8c987ddb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hpY2ggZm9vZCBpcyBmYW1vdXMgaW4gQWhtZWRhYmFkPyIsImxrIjoiR2lGM2FHbGphQ0JtYjI5a0lHbHpJR1poYlc5MWN5QnBiaUJoYUcxbFpHRmlZV1EiLCJicyI6ImMtUHk0VklLejhoTXpsQkl5ODlQVWNnc1ZraEx6TTB2TFZiSXpGTnd6TWhOVFVsTVNreXhsMWlsYUtRc3BWaU9RMkVpVENGWEFKZEtlRVppQ1VpNkpDTlZvYmdnTlRrek1TZXpwQkxOdkxzS1JxcFN5dVU0bFNKTWRPVlNRellSYkhseWFVNUphVkVxbXBsTEU0d2twTVRnT2xHVWNubHdLWUNOS2M1TFRNNEdHcFd2a0ZTSzdxaGJIRWFLVXZMbFdKWEJqUlZnQkFBIiwiaWQiOiJmY19sNW9iYU9LdkpfTHExZThQMFB6TzhBWV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hpY2ggZm9vZCBpcyBmYW1vdXMgaW4gQWhtZWRhYmFkPyIsImxrIjoiR2lGM2FHbGphQ0JtYjI5a0lHbHpJR1poYlc5MWN5QnBiaUJoYUcxbFpHRmlZV1EiLCJicyI6ImMtUHk0VklLejhoTXpsQkl5ODlQVWNnc1ZraEx6TTB2TFZiSXpGTnd6TWhOVFVsTVNreXhsMWlsYUtRc3BWaU9RMkVpVENGWEFKZEtlRVppQ1VpNkpDTlZvYmdnTlRrek1TZXpwQkxOdkxzS1JxcFN5dVU0bFNKTWRPVlNRellSYkhseWFVNUphVkVxbXBsTEU0d2twTVRnT2xHVWNubHdLWUNOS2M1TFRNNEdHcFd2a0ZTSzdxaGJIRWFLVXZMbFdKWEJqUlZnQkFBIiwiaWQiOiJmY19sNW9iYU9LdkpfTHExZThQMFB6TzhBWV8yIn0%3D"
+    },
+    {
+      "question": "What is the speciality in Ahmedabad?",
+      "snippet": "Gujarat's commercial hub Ahmedabad (also known as Amdavad), also takes pride in being a centre for textile manufacturing and a tourist destination. Magnificent mosques, serene temples, and picturesque lakes are just a few of the attractions in Ahmedabad.",
+      "title": "What Is Ahmedabad Famous For? Top 22 Popular Places & Things",
+      "link": "https://www.godigit.com/explore/popular/what-is-ahmedabad-famous-for#:~:text=Gujarat's%20commercial%20hub%20Ahmedabad%20(also,of%20the%20attractions%20in%20Ahmedabad.",
+      "displayed_link": "https://www.godigit.com \u203a explore \u203a what-is-ahmedabad...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKUcKBEumC0hD5YHAOrawqTqblD7LL-_FK0tGhkdLWw&s",
+      "source_logo": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893271140c278cb944f67a2acbb65f3070b0ef35da76596a7334e3f09f915da8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3BlY2lhbGl0eSBpbiBBaG1lZGFiYWQ/IiwibGsiOiJHaU4zYUdGMElHbHpJSFJvWlNCemNHVmphV0ZzYVhSNUlHbHVJR0ZvYldWa1lXSmhaQSIsImJzIjoiYy1QeTRWSUt6OGhNemxCSXk4OVBVY2dzVmtoTHpNMHZMVmJJekZOd3pNaE5UVWxNU2t5eGwxaWxhS1FzcFZpT1EyRWlUQ0ZYQUpkS2VFWmlDVWk2SkNOVm9iZ2dOVGt6TVNlenBCTE52THNLUnFwU3l1VTRsU0pNZE9WU1F6WVJiSGx5YVU1SmFWRXFtcGxMRTR3a3BNVGdPbEdVY25sd0tZQ05LYzVMVE00R0dwV3ZrRlNLN3FoYkhFYUtVdkxsV0pYQmpSVmdCQUEiLCJpZCI6ImZjX2w1b2JhT0t2Sl9McTFlOFAwUHpPOEFZXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3BlY2lhbGl0eSBpbiBBaG1lZGFiYWQ%2FIiwibGsiOiJHaU4zYUdGMElHbHpJSFJvWlNCemNHVmphV0ZzYVhSNUlHbHVJR0ZvYldWa1lXSmhaQSIsImJzIjoiYy1QeTRWSUt6OGhNemxCSXk4OVBVY2dzVmtoTHpNMHZMVmJJekZOd3pNaE5UVWxNU2t5eGwxaWxhS1FzcFZpT1EyRWlUQ0ZYQUpkS2VFWmlDVWk2SkNOVm9iZ2dOVGt6TVNlenBCTE52THNLUnFwU3l1VTRsU0pNZE9WU1F6WVJiSGx5YVU1SmFWRXFtcGxMRTR3a3BNVGdPbEdVY25sd0tZQ05LYzVMVE00R0dwV3ZrRlNLN3FoYkhFYUtVdkxsV0pYQmpSVmdCQUEiLCJpZCI6ImZjX2w1b2JhT0t2Sl9McTFlOFAwUHpPOEFZXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is the food culture in Ahmedabad?",
+      "snippet": "Like much of Gujarat's cuisine, Ahmedabad's food is renowned for its richness and distinctive vegetarian dishes. The cuisine here often harmoniously blends sweet, spicy, and sour flavors, providing an exciting experience for diners.",
+      "title": "Review of Ahmedabad Cuisine in India | Vietjet Air",
+      "link": "https://www.vietjetair.com/en/news/travel-guides-1665635013747/review-of-ahmedabad-cuisine-in-india-1741773632930#:~:text=Like%20much%20of%20Gujarat's%20cuisine,an%20exciting%20experience%20for%20diners.",
+      "displayed_link": "https://www.vietjetair.com \u203a travel-guides-1665635013747",
+      "source_logo": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893271140c278cb944f67a2acbb65f30743e9f2e612f1070d48a5b654e2dc09c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZm9vZCBjdWx0dXJlIGluIEFobWVkYWJhZD8iLCJsayI6IkdoWmhhRzFsWkdGaVlXUWdabTl2WkNCamRXeDBkWEpsIiwiYnMiOiJjLVB5NFZJS3o4aE16bEJJeTg5UFVjZ3NWa2hMek0wdkxWYkl6Rk53ek1oTlRVbE1Ta3l4bDFpbGFLUXNwVmlPUTJFaVRDRlhBSmRLZUVaaUNVaTZKQ05Wb2JnZ05Ua3pNU2V6cEJMTnZMc0tScXBTeXVVNGxTSk1kT1ZTUXpZUmJIbHlhVTVKYVZFcW1wbExFNHdrcE1UZ09sR1Vjbmx3S1lDTktjNUxUTTRHR3BXdmtGU0s3cWhiSEVhS1V2TGxXSlhCalJWZ0JBQSIsImlkIjoiZmNfbDVvYmFPS3ZKX0xxMWU4UDBQek84QVlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZm9vZCBjdWx0dXJlIGluIEFobWVkYWJhZD8iLCJsayI6IkdoWmhhRzFsWkdGaVlXUWdabTl2WkNCamRXeDBkWEpsIiwiYnMiOiJjLVB5NFZJS3o4aE16bEJJeTg5UFVjZ3NWa2hMek0wdkxWYkl6Rk53ek1oTlRVbE1Ta3l4bDFpbGFLUXNwVmlPUTJFaVRDRlhBSmRLZUVaaUNVaTZKQ05Wb2JnZ05Ua3pNU2V6cEJMTnZMc0tScXBTeXVVNGxTSk1kT1ZTUXpZUmJIbHlhVTVKYVZFcW1wbExFNHdrcE1UZ09sR1Vjbmx3S1lDTktjNUxUTTRHR3BXdmtGU0s3cWhiSEVhS1V2TGxXSlhCalJWZ0JBQSIsImlkIjoiZmNfbDVvYmFPS3ZKX0xxMWU4UDBQek84QVlfMiJ9"
+    },
+    {
+      "question": "What snacks to buy in Ahmedabad?",
+      "snippet": null,
+      "title": "10 Top Things to Eat in Ahmedabad",
+      "date": "Mar 2, 2022",
+      "link": "https://www.intermiles.com/blog/10-top-things-to-eat-in-ahmedabad",
+      "list": [
+        "Khakhra from Indu Ben. Khakhra is basically a thin cracker local to the state of Gujarat. ... ",
+        "Dhokla from Das Kaka. ... ",
+        "Khaman from Das Kaka. ... ",
+        "Kulfi from Asharfi. ... ",
+        "Maska bun and tea from any roadside stall. ... ",
+        "Chat from Manek Chowk. ... ",
+        "Dalvada from Ambika. ... ",
+        "Bhajia and jalebi from Raipur Bhajia House."
+      ],
+      "displayed_link": "https://www.intermiles.com \u203a blog \u203a 10-top-things-to-eat...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIgkZNTqisIvUsCenLynpD60aOHIoZE8IqMuVdAf5LA&s",
+      "source_logo": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893271140c278cb944f67a2acbb65f300b2eee94af7b2e362ff5d521ffc29ea8.jpeg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBzbmFja3MgdG8gYnV5IGluIEFobWVkYWJhZD8iLCJsayI6IkdoOTNhR0YwSUhOdVlXTnJjeUIwYnlCaWRYa2dhVzRnWVdodFpXUmhZbUZrIiwiYnMiOiJjLVB5NFZJS3o4aE16bEJJeTg5UFVjZ3NWa2hMek0wdkxWYkl6Rk53ek1oTlRVbE1Ta3l4bDFpbGFLUXNwVmlPUTJFaVRDRlhBSmRLZUVaaUNVaTZKQ05Wb2JnZ05Ua3pNU2V6cEJMTnZMc0tScXBTeXVVNGxTSk1kT1ZTUXpZUmJIbHlhVTVKYVZFcW1wbExFNHdrcE1UZ09sR1Vjbmx3S1lDTktjNUxUTTRHR3BXdmtGU0s3cWhiSEVhS1V2TGxXSlhCalJWZ0JBQSIsImlkIjoiZmNfbDVvYmFPS3ZKX0xxMWU4UDBQek84QVlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoamJsbzNkWHBYTVdscWF6WnZiRmhzT1hKRlluVXpaRGhKVTFFM2RWOUVOSFp0VFZOQ1VWWTRhWE5uTUdNemRUSnVSV2x5U2tkbVoxVllTekZPYmpGUmJsVTVZakUwZFdkTVZsUkRabnA0YzJWR1FsTkdOSE5wV1VOdlFSSVhiRFZ2WW1GUFMzWktYMHh4TVdVNFVEQlFlazg0UVZrYUlrRkRSRmhNTkd4TllrRXhTVEZFVjJaM1UySnhhVmd5VWtZd1oyTTBjMGh6VldjIiwiZmN2IjoiMyIsImVpIjoibDVvYmFPS3ZKX0xxMWU4UDBQek84QVkiLCJxYyI6IkNoWmlaWE4wSUdadmIyUWdhVzRnWVdodFpXUmhZbUZrRUFCOWxFUDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBzbmFja3MgdG8gYnV5IGluIEFobWVkYWJhZD8iLCJsayI6IkdoOTNhR0YwSUhOdVlXTnJjeUIwYnlCaWRYa2dhVzRnWVdodFpXUmhZbUZrIiwiYnMiOiJjLVB5NFZJS3o4aE16bEJJeTg5UFVjZ3NWa2hMek0wdkxWYkl6Rk53ek1oTlRVbE1Ta3l4bDFpbGFLUXNwVmlPUTJFaVRDRlhBSmRLZUVaaUNVaTZKQ05Wb2JnZ05Ua3pNU2V6cEJMTnZMc0tScXBTeXVVNGxTSk1kT1ZTUXpZUmJIbHlhVTVKYVZFcW1wbExFNHdrcE1UZ09sR1Vjbmx3S1lDTktjNUxUTTRHR3BXdmtGU0s3cWhiSEVhS1V2TGxXSlhCalJWZ0JBQSIsImlkIjoiZmNfbDVvYmFPS3ZKX0xxMWU4UDBQek84QVlfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "THE 10 BEST Restaurants in Ahmedabad (Updated May ...",
+      "link": "https://www.tripadvisor.com/Restaurants-g297608-Ahmedabad_Ahmedabad_District_Gujarat.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/Restaurants-g297608-Ahmedabad_Ahmedabad_District_Gujarat.html&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECBEQAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a Ahmedabad",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddacfc9eae3e1f23af9e368b6e02ba987f.png",
+      "snippet": "1. Peshawri \u00b7 (334 reviews). Indian, Fusion ; 2. Royal Vega \u00b7 (413 reviews). Indian, Fusion ; 3. Timpani \u00b7 (531 reviews). Indian, International ; 4. Agashiye \u00b7 (1,091 ...",
+      "snippet_highlighted_words": [
+        "1. Peshawri"
+      ],
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 2,
+      "title": "Hidden Food Gems in Ahmedabad - A Local's Guide",
+      "link": "https://www.reddit.com/r/ahmedabad/comments/15w0oni/hidden_food_gems_in_ahmedabad_a_locals_guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/ahmedabad/comments/15w0oni/hidden_food_gems_in_ahmedabad_a_locals_guide/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECG0QAQ",
+      "displayed_link": "30+ comments \u00b7 1 year ago",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dde10c5f9ee04b943772a165d6df9a713f.png",
+      "snippet": "1. Mumbai-Style Vadapav / Misal Pav \u00b7 2. Gujju-Style Vadapav \u00b7 3. Dabeli \u00b7 4. Sandwich / Toast \u00b7 5. Dosa \u00b7 6. Chinese \u00b7 7. Gujarati Thali \u00b7 8. Punjabi.",
+      "snippet_highlighted_words": [
+        "Mumbai-Style Vadapav / Misal Pav"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are your fav eat out places in ahmedabad.. - Reddit",
+            "link": "https://www.reddit.com/r/ahmedabad/comments/19ej381/what_are_your_fav_eat_out_places_in_ahmedabad/",
+            "answer_count": 63,
+            "date": "Jan 24, 2024"
+          },
+          {
+            "title": "Where to get Best Food in Ahmedabad? - Reddit",
+            "link": "https://www.reddit.com/r/ahmedabad/comments/1fob4ya/where_to_get_best_food_in_ahmedabad/",
+            "answer_count": 17,
+            "date": "Sep 24, 2024"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/ahmedabad"
+    },
+    {
+      "position": 3,
+      "title": "What is a complete guide to Ahmedabad's must-try foods ...",
+      "link": "https://www.quora.com/What-is-a-complete-guide-to-Ahmedabad-s-must-try-foods-and-local-delicacies",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-a-complete-guide-to-Ahmedabad-s-must-try-foods-and-local-delicacies&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECG4QAQ",
+      "displayed_link": "1 answer \u00b7 4 months ago",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddbed85df7e91d18ad00e9fba37a3160c9.png",
+      "snippet": "1. Undhiyo \u00b7 2. Lasooniya gathiya \u00b7 3. Jalebi fafda \u00b7 4. Khichdi - kadhi \u00b7 5. Bajra rotli with papad ki sabzi, drumsticks cooked in curry or spring ...",
+      "snippet_highlighted_words": [
+        "1. Undhiyo"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are some good places to have lunch in ...",
+            "link": "https://www.quora.com/What-are-some-good-places-to-have-lunch-in-Ahmedabad-India",
+            "answer_count": 1,
+            "date": "Oct 20, 2023"
+          },
+          {
+            "title": "What are the best restaurants to try when visiting ...",
+            "link": "https://www.quora.com/What-are-the-best-restaurants-to-try-when-visiting-Ahmedabad-Gujarat-India-What-should-you-try-while-youre-there",
+            "answer_count": 202,
+            "date": "Oct 24, 2016"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 4,
+      "title": "The Best Restaurants in Ahmedabad for Dining Out",
+      "link": "https://www.zomato.com/ahmedabad/restaurants",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zomato.com/ahmedabad/restaurants&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECFsQAQ",
+      "displayed_link": "https://www.zomato.com \u203a ahmedabad \u203a restaurants",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd732811de6dcbb04b8846e9ba34d260f4.png",
+      "snippet": "Collage - Hyatt. 4.1. South Indian, Continental, Fast Food, Pizza, Chinese, North Indian, Mughlai, Beverages. \u20b92,500 for two ; Saffron. 4.0. North Indian, ...",
+      "snippet_highlighted_words": [
+        "Collage - Hyatt"
+      ],
+      "source": "Zomato"
+    },
+    {
+      "position": 5,
+      "title": "A food lover's guide to Ahmedabad",
+      "link": "https://www.cntraveller.in/story/a-food-lovers-guide-to-ahmedabad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cntraveller.in/story/a-food-lovers-guide-to-ahmedabad/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECGMQAQ",
+      "displayed_link": "https://www.cntraveller.in \u203a India \u203a AHMEDABAD",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd5c141740af90da027fab24097e31af78.png",
+      "date": "Jul 20, 2021",
+      "snippet": "48 hour guide to eating in Ahmedabad ; Jalebi at Chandra Villas. ; Inside Tomatos. Inside Tomato's ; A meal at Vishalla ; Shankars ice cream library ...",
+      "snippet_highlighted_words": [
+        "Jalebi at Chandra Villas"
+      ],
+      "source": "Cond\u00e9 Nast Traveller India"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 must try food in ahmedabad | ahmedabad food tour",
+      "link": "https://www.youtube.com/watch?v=JvmVbXfcAuo",
+      "displayed_link": "369.2K+ views \u00b7 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/JvmVbXfcAuo/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kCz_PuS6Rzq_NldCwWU1tlzJ_HOQ",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd9ae95189a2718a46e306672108473252.png",
+      "snippet": "Top 10 must try food in ahmedabad | ahmedabad food tour #ahmedabadfood #ahmedabad #food #musttry #streetfood #indianstreetfood ...",
+      "duration": "30:40",
+      "source": "YouTube \u00b7 Singhsman"
+    },
+    {
+      "position": 7,
+      "title": "11 Foods in Ahmedabad - Best Authentic Restaurants",
+      "link": "https://www.tasteatlas.com/best-dishes-in-ahmedabad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteatlas.com/best-dishes-in-ahmedabad&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECD8QAQ",
+      "displayed_link": "https://www.tasteatlas.com \u203a best-dishes-in-ahmedabad",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd7507cb58ddce1c4780f71ec118b4ceb3.png",
+      "snippet": "What to eat in Ahmedabad? Where to eat in Ahmedabad? 11 Traditional Foods You Have To Try in Ahmedabad \u00b7 Khakhra \u00b7 MOST ICONIC Khakhra \u00b7 Ganthiya \u00b7 MOST ICONIC ...",
+      "snippet_highlighted_words": [
+        "Khakhra"
+      ],
+      "source": "TasteAtlas"
+    },
+    {
+      "position": 8,
+      "title": "What are the top ten restaurants in Ahmedabad, and why ...",
+      "link": "https://www.quora.com/What-are-the-top-ten-restaurants-in-Ahmedabad-and-why-are-they-the-top?no_redirect=1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-are-the-top-ten-restaurants-in-Ahmedabad-and-why-are-they-the-top%3Fno_redirect%3D1&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECEcQAQ",
+      "displayed_link": "1 answer \u00b7 10 years ago",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dded7484380564c23c7fb68c208e812e15.png",
+      "snippet": "1. Swati Snacks: Gujarati or Marathi fast food. Try the panki, handvo, chichi \u00b7 2. Manek Chowk: Night market @ Manek chowk starts at 8 and has ...",
+      "snippet_highlighted_words": [
+        "Swati Snacks: Gujarati or Marathi fast food"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 9,
+      "title": "Food & Travel Influencer (@ahmedabad_food_trend)",
+      "link": "https://www.instagram.com/ahmedabad_food_trend/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/ahmedabad_food_trend/%3Fhl%3Den&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECF8QAQ",
+      "displayed_link": "179.5K+ followers",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddebc66ed2d0f21d4879f448e01c2f609f.png",
+      "snippet": "Best place for Kathiyawadi food in Ahmedabad - Show this Reel & Get 10 ... food, Dhaba Style food in Ahmedabad, Gujarati food ] #kathiyawadi #ahmedabad ...",
+      "snippet_highlighted_words": [
+        "Best place for Kathiyawadi food in Ahmedabad"
+      ],
+      "source": "Instagram \u00b7 ahmedabad_food_trend"
+    },
+    {
+      "position": 10,
+      "title": "Check Out the Famous Food of Ahmedabad City",
+      "link": "https://www.thorntreeforum.com/threads/check-out-the-famous-food-of-ahmedabad-city.1138/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thorntreeforum.com/threads/check-out-the-famous-food-of-ahmedabad-city.1138/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECEEQAQ",
+      "displayed_link": "https://www.thorntreeforum.com \u203a ... \u203a India",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddd2910b973e45f6b6db51345053f9f3dd.png",
+      "date": "Feb 7, 2025",
+      "snippet": "A traditional Gujarati thali is a must-have. It includes rotis, dal, kadhi, vegetables, rice, and sweets. The flavors are rich and satisfying.",
+      "snippet_highlighted_words": [
+        "A traditional Gujarati thali"
+      ],
+      "source": "Thorn Tree Travel Forum"
+    },
+    {
+      "position": 11,
+      "title": "Indian Street Food in Ahmedabad, India - EXTREME DOSA + ...",
+      "link": "https://www.youtube.com/watch?v=t3qxR9ypNPE",
+      "displayed_link": "119.2K+ views \u00b7 3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/t3qxR9ypNPE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mruJ42DTh_kHkdgQhxnPkLwxQ70w",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd2bcc294a7870db16112e95ab9c591ff1.png",
+      "snippet": "Indian street food in Ahmedabad, India. In this video we tasted the most extreme dosa along with some of the best veg street food at the ...",
+      "duration": "35:59",
+      "source": "YouTube \u00b7 Hungry Two Travel"
+    },
+    {
+      "position": 12,
+      "title": "places to eat - Ahmedabad Forum",
+      "link": "https://www.tripadvisor.com/ShowTopic-g297608-i10563-k3588257-o10-Places_to_eat-Ahmedabad_Ahmedabad_District_Gujarat.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/ShowTopic-g297608-i10563-k3588257-o10-Places_to_eat-Ahmedabad_Ahmedabad_District_Gujarat.html&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECFwQAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ShowTopic-g297608-i1...",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd7c274ff0ab39cbb5c3a084f5c1ddf1f8.png",
+      "snippet": "Answer 11 of 12: Hey i was wondering what were the best places to eat in ahmedabad ... keep in mind at Vishalla one has to sit on the floor also food are ...",
+      "snippet_highlighted_words": [
+        "best",
+        "ahmedabad",
+        "food"
+      ],
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 13,
+      "title": "A Guide: Eating out in Ahmedabad",
+      "link": "https://www.team-bhp.com/forum/shifting-gears/64082-guide-eating-out-ahmedabad.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.team-bhp.com/forum/shifting-gears/64082-guide-eating-out-ahmedabad.html&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoFCIgBEAE",
+      "displayed_link": "https://www.team-bhp.com \u203a Forum \u203a Shifting gears",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dda564c7dc78c854b08dc2438296dd7c05.jpeg",
+      "date": "Aug 24, 2009",
+      "snippet": "Cooking Culture - SG highway. multi cuisine restaurant. Good ambiance. Just went there last week. ButterMilk(Chaas) - Jalaram. Nr. Swastik Cross ...",
+      "snippet_highlighted_words": [
+        "cuisine",
+        "Good"
+      ],
+      "source": "Team-BHP"
+    },
+    {
+      "position": 14,
+      "title": "ahmedabad on Instagram: \"Made this once\u2026 now it's on ...",
+      "link": "https://www.instagram.com/reel/DJWgaS8SdeY/",
+      "displayed_link": "6 likes \u00b7 5 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmCCbBakK54mlTygFdgEoxyVQFYWAPaaOWI0Dpuyf6wTD&s",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddacc3c8df5a87f0a6d649438599c516f8.png",
+      "snippet": "[Ahmedabad food blogger, Best food in Ahmedabad, Ahmedabad street food, Top cafes in Ahmedabad, Trending restaurants Ahmedabad, Ahmedabad food ...",
+      "duration": "0:29",
+      "source": "Instagram \u00b7 hungrygang_ahm"
+    },
+    {
+      "position": 15,
+      "title": "Street Food In Ahmedabad 2025: 19 Best ...",
+      "link": "https://traveltriangle.com/blog/street-food-in-ahmedabad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://traveltriangle.com/blog/street-food-in-ahmedabad/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECEIQAQ",
+      "displayed_link": "https://traveltriangle.com \u203a blog \u203a street-food-in-ahmeda...",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd21377cf13b10fb48587d2985316e63db.png",
+      "snippet": "Khakhra is the best street food in Ahmedabad that you must try on your vacation. Other street food items that you can try are sev, Dhokla, and Chinese Snacks.",
+      "snippet_highlighted_words": [
+        "best",
+        "food in Ahmedabad",
+        "food"
+      ],
+      "source": "TravelTriangle.com"
+    },
+    {
+      "position": 16,
+      "title": "The 50 best places to eat in Ahmedabad",
+      "link": "https://wanderlog.com/list/geoCategory/70509/best-places-to-eat-in-ahmedabad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wanderlog.com/list/geoCategory/70509/best-places-to-eat-in-ahmedabad&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECEMQAQ",
+      "displayed_link": "https://wanderlog.com \u203a list \u203a geoCategory \u203a best-place...",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddc6a92071dad9aa4b314bf346bb5dfe0f.png",
+      "snippet": "Established in 2003, Swati Snacks is a beloved vegetarian restaurant in Ahmedabad that offers a delightful blend of fast food, South Indian dishes, and ...",
+      "snippet_highlighted_words": [
+        "Ahmedabad",
+        "food",
+        "dishes"
+      ],
+      "source": "Wanderlog"
+    },
+    {
+      "position": 17,
+      "title": "Top 20 Famous Foods in Gujarat You Must Try in 2024",
+      "link": "https://www.ajays.co.in/blog/top-20-famous-foods-in-ahmedabad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ajays.co.in/blog/top-20-famous-foods-in-ahmedabad/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECEAQAQ",
+      "displayed_link": "https://www.ajays.co.in \u203a Home \u203a General",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0ddd6ffe4109c90aba62957e60a44bd9944.png",
+      "date": "May 9, 2024",
+      "snippet": "Non-traditional, but unmissable \u00b7 Kutchi Dabeli \u00b7 Amdavadi Vadapav \u00b7 Sandwich Dhokla \u00b7 Nadiad nu Puff \u00b7 Ajay's Cafe Pizza and Burger.",
+      "source": "Ajay's Takeaway Food"
+    },
+    {
+      "position": 18,
+      "title": "Order Food & Groceries. Discover the best restaurants ...",
+      "link": "https://www.swiggy.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swiggy.com/&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QFnoECF4QAQ",
+      "displayed_link": "https://www.swiggy.com",
+      "favicon": "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/8b062d6fa7a5f6518c10f146a8e3a0dd44583ace9e2e023320cd24bf3da45094.png",
+      "snippet": "Find convenience at your fingertips with Swiggy! Your ultimate destination for food, groceries, and dining-out options. Order now and satisfy all your ...",
+      "snippet_highlighted_words": [
+        "food"
+      ],
+      "source": "Swiggy"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "foodie bhuro",
+      "source": "YouTube",
+      "extensions": [
+        "89.4K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893513f20faf6b142249b25924e90d7ab73e38b43d1ae0f7b12a03b0445c4436.jpeg"
+      ],
+      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6\u0aa8\u0ac0 Best Unlimited Food Place\ud83d\ude0d #trending#ahmedabad#restaurant#food#shorts#video#unlimitedfood",
+      "link": "https://www.youtube.com/shorts/NyJuqNcQeXE",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "hungrygang_ahm",
+      "author_description": "Indian chef",
+      "source": "Instagram",
+      "extensions": [
+        "1.5K+ likes "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893513f20faf6b14c389bdd4e58fa0d61eefb23efe4a83273c8c1ef92352931e.jpeg"
+      ],
+      "title": "Ahmedabad\u2019s Ultimate Veg Food Spot! \ud83c\udf7d\ufe0f\ud83d\udd25 Looking for the best pure veg restaurant in Ahmedabad? \ud83c\udf3f Try Granville Greens Caf\u00e9 & Restaurant at Sindhu Bhavan Marg, where taste meets a perfect vibe! \ud83d\ude0d \u2714 Best pure veg restaurant Ahmedabad \u2714 Jain food in Ahmedabad \ud83c\udf31 \u2714 Live IPL screening caf\u00e9 Ahmedabad \ud83c\udfcf\ud83d\udcfa \u2714 Flat 15% OFF (12 PM - 6 PM) \ud83d\udd25 \u2714 Must-Try: Wood Fire Pizza, Pasta, Unique Starters & Mocktails \ud83c\udf55\ud83c\udf79 Tag your squad & visit NOW! \ud83e\udd73\ud83c\udf7d\ufe0f \ud83d\udccd @granvillegreenscaferestaurant Frizebee Lane, Sindhu Bhavan Marg, Ahmedabad #AhmedabadFoodie #PureVegRestaurant #JainFoodAhmedabad #IPL2025 #AhmedabadRestaurants #BestCafeInAhmedabad #FoodLover #AhmedabadEats #GranvilleGreens #ViralReels #foodstagram",
+      "link": "https://www.instagram.com/hungrygang_ahm/reel/DHsw22JM9sS/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Travel With Samay",
+      "author_description": "Travel vlogger",
+      "source": "YouTube",
+      "extensions": [
+        "1.8K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/681b9a8df30d13bfdb6abf55/images/893513f20faf6b14c5ad8739a8b809e8d85c49bce45c0e6c39c57aae7fd1ac15.jpeg"
+      ],
+      "title": "Must-Try Food in Ahmedabad | \ud83c\udf7d\ufe0f Best Places to Eat in Ahmedabad",
+      "link": "https://www.youtube.com/watch?v=JykZ44OTBP0",
+      "date": "1 month ago"
+    },
+    {
+      "author": "SugarSpiceNice India",
+      "author_description": "Food vlogger",
+      "source": "YouTube",
+      "extensions": [
+        "116.4K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/90jaxAFO1gI/hqdefault.jpg"
+      ],
+      "title": "20 Best Things to do in AHMEDABAD ~ Legendary Restaurants, Street Food, Unique Thalis, Shopping",
+      "link": "https://www.youtube.com/watch?v=90jaxAFO1gI",
+      "date": "1 month ago"
+    },
+    {
+      "author": "SugarSpiceNice Hindi",
+      "author_description": "Food vlogger",
+      "source": "YouTube",
+      "extensions": [
+        "4.4K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/RBg-RnWQigY/hqdefault.jpg"
+      ],
+      "title": "Lunch Thali 'date' at most beautiful restaurant in Ahmedabad \ud83c\udf3f",
+      "link": "https://www.youtube.com/watch?v=RBg-RnWQigY",
+      "date": "1 month ago"
+    },
+    {
+      "author": "IndiaHD",
+      "source": "YouTube",
+      "extensions": [
+        "330+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/qTBLiqHC51Q/hqdefault.jpg"
+      ],
+      "title": "Unlimited Dinner at The Renaissance Ahmedabad Hotel",
+      "link": "https://www.youtube.com/watch?v=qTBLiqHC51Q",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Foodie_bala_ahmedabad",
+      "author_description": "Ahmedabad-based food blogger",
+      "source": "YouTube",
+      "extensions": [
+        "5.1K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/bUlgE47Ttdw/hqdefault.jpg"
+      ],
+      "title": "Ahmedabad Most Viral Rooftop Resto Cafe \ud83d\ude0d #viralreel #food #restaurant #cafe #viralshorts",
+      "link": "https://www.youtube.com/shorts/bUlgE47Ttdw",
+      "date": "Mar 9, 2025"
+    }
+  ],
+  "filters": [
+    {
+      "name": "For friends",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRyqUo6RsPf4DiRKGfG7PPYq8E2i8pWM5ToViz-_sIiW-qJgFpCQHVL9WzG2H3hLFN_KR7bSFrDeDrPmgYiYb_y_rIBLNJn2vQta9HCdPLoH0iBOz0ggq-PE8lbBusz4yGwrB8iLrzx7UKQjc0plFb9f9RWDSGlw-kCcq1vNgBph6c9jT-3SUKw4ff8jqjcdinvribGO0hpU9Trj8YPkkEwUAZDIVxO7BvOHnjAAfszGbUSFMFhP9Rfv3tCJdyGLUHYPBVNQ",
+        "q": "Best restaurants in Ahmedabad for friends"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+restaurants+in+Ahmedabad+for+friends&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRyqUo6RsPf4DiRKGfG7PPYq8E2i8pWM5ToViz-_sIiW-qJgFpCQHVL9WzG2H3hLFN_KR7bSFrDeDrPmgYiYb_y_rIBLNJn2vQta9HCdPLoH0iBOz0ggq-PE8lbBusz4yGwrB8iLrzx7UKQjc0plFb9f9RWDSGlw-kCcq1vNgBph6c9jT-3SUKw4ff8jqjcdinvribGO0hpU9Trj8YPkkEwUAZDIVxO7BvOHnjAAfszGbUSFMFhP9Rfv3tCJdyGLUHYPBVNQ&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegQINBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+restaurants+in+Ahmedabad+for+friends&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRyqUo6RsPf4DiRKGfG7PPYq8E2i8pWM5ToViz-_sIiW-qJgFpCQHVL9WzG2H3hLFN_KR7bSFrDeDrPmgYiYb_y_rIBLNJn2vQta9HCdPLoH0iBOz0ggq-PE8lbBusz4yGwrB8iLrzx7UKQjc0plFb9f9RWDSGlw-kCcq1vNgBph6c9jT-3SUKw4ff8jqjcdinvribGO0hpU9Trj8YPkkEwUAZDIVxO7BvOHnjAAfszGbUSFMFhP9Rfv3tCJdyGLUHYPBVNQ"
+    },
+    {
+      "name": "For dinner",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RR2ajvbcBzxzfVHtLI7QPj99KYJ1i48u1HuzfmZ7sbpCcXQ03vXXPA-BHJD04F4afVv2h7pKdYyATPxZ22nNnW6-8ACU7yg4Eqc2t6RYhacjNy3KQOfM0jjUZWtfrCov3lDYifqIWopFp4vMXtQGDN7_AJ-XHvzMNMQkInnWHFcSbWRClm2z1088-QCIHo6nFkLDbc1kS2HIfUWMBCw3t_9uV13ss",
+        "q": "Best food in ahmedabad for dinner"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+food+in+ahmedabad+for+dinner&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR2ajvbcBzxzfVHtLI7QPj99KYJ1i48u1HuzfmZ7sbpCcXQ03vXXPA-BHJD04F4afVv2h7pKdYyATPxZ22nNnW6-8ACU7yg4Eqc2t6RYhacjNy3KQOfM0jjUZWtfrCov3lDYifqIWopFp4vMXtQGDN7_AJ-XHvzMNMQkInnWHFcSbWRClm2z1088-QCIHo6nFkLDbc1kS2HIfUWMBCw3t_9uV13ss&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegQILBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+food+in+ahmedabad+for+dinner&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR2ajvbcBzxzfVHtLI7QPj99KYJ1i48u1HuzfmZ7sbpCcXQ03vXXPA-BHJD04F4afVv2h7pKdYyATPxZ22nNnW6-8ACU7yg4Eqc2t6RYhacjNy3KQOfM0jjUZWtfrCov3lDYifqIWopFp4vMXtQGDN7_AJ-XHvzMNMQkInnWHFcSbWRClm2z1088-QCIHo6nFkLDbc1kS2HIfUWMBCw3t_9uV13ss"
+    },
+    {
+      "name": "Non veg",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRKi4kgrqjt5bPRec7O9xci6Ose_7wpkFswiF8qdX50CibjlywzFGX2jyUOPWPyoDtLbq6ccrlAwYqLKHKFUzl04jCIge11geOiB0an1S0KRxlvCR1JD5rnX6zlqhIFg4vAjCTBZkmQ5rhjLagNk_DgrgRCsTLamxN20Wmo5lWG1EprGJCOIt2XFOHKYSQ4U7JE7aUnJgh4UsI8Umjis8JKMFSrqI",
+        "q": "Best non veg food in Ahmedabad"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+non+veg+food+in+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRKi4kgrqjt5bPRec7O9xci6Ose_7wpkFswiF8qdX50CibjlywzFGX2jyUOPWPyoDtLbq6ccrlAwYqLKHKFUzl04jCIge11geOiB0an1S0KRxlvCR1JD5rnX6zlqhIFg4vAjCTBZkmQ5rhjLagNk_DgrgRCsTLamxN20Wmo5lWG1EprGJCOIt2XFOHKYSQ4U7JE7aUnJgh4UsI8Umjis8JKMFSrqI&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegQIKhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+non+veg+food+in+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRKi4kgrqjt5bPRec7O9xci6Ose_7wpkFswiF8qdX50CibjlywzFGX2jyUOPWPyoDtLbq6ccrlAwYqLKHKFUzl04jCIge11geOiB0an1S0KRxlvCR1JD5rnX6zlqhIFg4vAjCTBZkmQ5rhjLagNk_DgrgRCsTLamxN20Wmo5lWG1EprGJCOIt2XFOHKYSQ4U7JE7aUnJgh4UsI8Umjis8JKMFSrqI"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRrm7Wb6XKs3CHTvcgcVo4gh2Yw3bFAufRL7ectoY4js_RsZ8Dwr2_Nc4ErPlI0VLxKxk48d4chT5XJP1e86AWeayna3n4CMj7LcTvMdBPmBKLD7cDBsRGFLlvewZA0xOSRNwFMVajHGfMfA5OSvGu9VkQLzEE0nhipXWq3AsE9ATAWJIu",
+        "q": "best food in ahmedabad open now"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=best+food+in+ahmedabad+open+now&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRrm7Wb6XKs3CHTvcgcVo4gh2Yw3bFAufRL7ectoY4js_RsZ8Dwr2_Nc4ErPlI0VLxKxk48d4chT5XJP1e86AWeayna3n4CMj7LcTvMdBPmBKLD7cDBsRGFLlvewZA0xOSRNwFMVajHGfMfA5OSvGu9VkQLzEE0nhipXWq3AsE9ATAWJIu&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegQIKxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad+open+now&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRrm7Wb6XKs3CHTvcgcVo4gh2Yw3bFAufRL7ectoY4js_RsZ8Dwr2_Nc4ErPlI0VLxKxk48d4chT5XJP1e86AWeayna3n4CMj7LcTvMdBPmBKLD7cDBsRGFLlvewZA0xOSRNwFMVajHGfMfA5OSvGu9VkQLzEE0nhipXWq3AsE9ATAWJIu"
+    },
+    {
+      "name": "Cuisine",
+      "options": [
+        {
+          "name": "Any cuisine"
+        },
+        {
+          "name": "Buffet",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7",
+            "q": "buffet best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=buffet+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=buffet+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7"
+        },
+        {
+          "name": "Chinese",
+          "parameters": {
+            "uds": "ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg",
+            "q": "chinese best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=chinese+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=chinese+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg"
+        },
+        {
+          "name": "European",
+          "parameters": {
+            "uds": "ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E",
+            "q": "european best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=european+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=european+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E"
+        },
+        {
+          "name": "Fast food",
+          "parameters": {
+            "uds": "ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw",
+            "q": "fast food best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=fast+food+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=fast+food+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw"
+        },
+        {
+          "name": "Italian",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg",
+            "q": "italian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=italian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAH",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=italian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg"
+        },
+        {
+          "name": "North indian",
+          "parameters": {
+            "uds": "ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g",
+            "q": "north indian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=north+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=north+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g"
+        },
+        {
+          "name": "Pizza",
+          "parameters": {
+            "uds": "ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ",
+            "q": "pizza best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=pizza+best+food+in+ahmedabad&uds=ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAJ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=pizza+best+food+in+ahmedabad&uds=ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ"
+        },
+        {
+          "name": "Seafood",
+          "parameters": {
+            "uds": "ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg",
+            "q": "seafood best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=seafood+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=seafood+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg"
+        },
+        {
+          "name": "South indian",
+          "parameters": {
+            "uds": "ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ",
+            "q": "south indian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=south+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAL",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=south+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ"
+        },
+        {
+          "name": "Vegetarian",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw",
+            "q": "vegetarian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=vegetarian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=vegetarian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw"
+        }
+      ]
+    },
+    {
+      "name": "Cuisine",
+      "options": [
+        {
+          "name": "Any cuisine"
+        },
+        {
+          "name": "Buffet",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7",
+            "q": "buffet best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=buffet+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=buffet+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9B9pqgu9bVTXG52qluWBH8rrj4whyxP_NkJbDQgWIanrC0zH2SFd2fxWBqU4eZgsckuI76GnGfUFwIM0v7hHO-3DSM2ZH1UAp3hbQr-wpirwpSB7HHuXdN13MyxYztpX2A3QdTpD19KbKEIqMSdac5_Espeq9PitBiHPDAenjuMrSCaVxO8Z2OOaAtARb6ym3C8qgQG8OGukSctAI1g0UUYx99XMNgCfgNRH8093uzJNaq1Gg-xJaR2iz8lfEPcQGgMLiC_L2Y60vQYOOxDApUTAE47Yt233YH3kqC8AgVfgsoQEAaK0YTsge3H3-xJBTeBcIsCmTY2wILIf8xTMEt3k8xEaA_PNv-VHKWlCdGN6PReOxa4Y1kISOzE8w392W-dwoMi7rCFVUDiLKIEwPIP2zoezmbV0XZC_7w-DQp8aGg7v3rBo8jza4rJJLRqFo-r_ULaZIFGzPOSURxXF9bCPnfH173u5Lg-um2kYC4jOVtRKYTGWhHhdk0ZDdXjONYvr900QydESDfmZr97SL7XPUEma7xTyqNfu1_8swmXfxIIQBenaISkT36At4V-K1n2m59B-_Um0M476fhCb9cSeAalUr75ut705ZCz9Z2wwaCfxn7MY7c1LQNsyCKrer9TTMhit94mVAHvNUQWQih1S_rNH8t2WpaD_KqCsp6i4AJTUA7"
+        },
+        {
+          "name": "Chinese",
+          "parameters": {
+            "uds": "ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg",
+            "q": "chinese best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=chinese+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=chinese+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EKuw-I-ntgE90wr2f4nh3nLmp1j3jHS2zV_449g9CLKkHad8Q38YndfiOWZA-p1uZq5dQRrYP3rnOWVXgqnyomHNuIEOYhk_gRcfp6V9e3YzwK36wViHHtwll1mYofVqMXrociEymKZXeEcsqvreHyzot2ttEVyADhDHBLFEU0MphdtmcfqyHlaUWbgM_XnrT3rMgWOH8PXA8DhW-tpANcimL0AK8aDrC4f7WM1Uuo_hZwO6XQdRsHWSW4P7j7zNcTJ0YfoOb_jf1-ho4X9RSs1B5HQJ6x-K8PQHHynjfg6Achv6PmvoGeetiJwPs8lxcdxhyeqgbJomymXBL0pUkvmMhnunr5EaTG3Gx_ZLvTh11l5VtA9jaUk8sfusT4GJc3h3AMI_5b3zfcfvA_QeFCg4ecGwvuUts5oaT957g_rrHqUKHw479HlXmSd2A2Qo3a5fFAy5XsfFdnL-a6aVWZlcGI-j2c_htKcl5vIOl1mgH6Sfm6Lz22ztbhh8dCLPDJ7kJoHzOzRdVGiC2Jcyjguw9TxHQeDs68JqUmECnKy6hE8SFaWUXtmsCN6xbMDEaKAcksZ-Q7KKAGjtNRyI85hPLm_geEmapXT1PFDKo0II5qCmrigXpK9vuNZc5w0pKciTlvt8NvK-NhFETy3gdSJz1hAvw8T9_5oPJUfDl30rQdrXf2J767hGq-JzdjiEp5duoHg"
+        },
+        {
+          "name": "European",
+          "parameters": {
+            "uds": "ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E",
+            "q": "european best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=european+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=european+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigCl3QXGUQsS314NuZn4BS6bkPVT2rGkKGRyLNO9Kcyzdn9cTHaOPqdxcX8RhxzMKBAKaFF5-oT-emd99AuwrDboCn_wILsTe_AfXgYD13jHjxuc4-SohQ9axZSmQUcG1j48FW_2H6RWWBonRN8WNSqnHnKlcXdpfHXEjHm9lrf19V0HTAGUXn_V3C-Kr3VOpaCoq4jtd8mcld-QRXRJI2dtPqlsMk6VQvGSdweexURRe1h22abZuNi87dZ8tA2lQ4fVNuxdyA30Mnotd5Va8fxRMV4DL7Zz4qtGOlimcgRz39ASIL2V_kvhru7F5imms8Ge7gKB6e8lFhUh6rI9-bruYR5_UonMuAQiXoKBAWvSFlQRhckPNGYHX3bWrM27JtcPGGuP6UDEIwNtCr59edgo2uVkN6ZeKfIrROJZ4sNysCV-ljiftLxi7UVMxhL0FCCa9HA4FNCiDpjMZNQIVbWCAM35oc4eAkpvEjd_8_OsTgKZ9KcVxo5BUXlc8TORxR0uzT_UK2aQW7TvVXO_Qx31QTvQ2OSqOzLIaNnWRcHVQdKTqcLEYc-lUXghG43NDdvlOzoiSbGQz96mKFBBe4i8ZAPKYt2CD1yOJ8a0mcuM3h_QPXsY7syMgQjtIRHtIV4W1eAtdoiH80qjTGGNsnq8l3dpwIv4SNTD4NqLJrmk62dqWX2E"
+        },
+        {
+          "name": "Fast food",
+          "parameters": {
+            "uds": "ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw",
+            "q": "fast food best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=fast+food+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=fast+food+best+food+in+ahmedabad&uds=ABqPDvzcsljXH2lllCP46vs1Rc4EYumTkeSytYuxrQETizEXSJaDqZji4TeyEqGVOluxySXqFQFUEmXFsX2PoIeyAN6mST9PsqtKVc6DETrSMWB76U_kbXqRyLIRj1eMDJZDtkRzm9vIvJytWtQxRrB2ajh_Tqx03cSxboFR_49i-aIqaawNMrseXsmPskSSX7iOr8JJ3uKJl-tBrHgefQl6-NJIn9Y8Rn2kJ5vP382qio9wiIH4yIfmhBZIySCm1zhCDdSnWz56l0Zq2omhVZeAHjf_cj0e4jgVdJFVXUx4RCYH3ETMGhnLxPjn_PfoVTGXP6g0hH1fMzqSBTwDUJqBsZ3NHj0BJ7wl8QtDwxS7PoXcZ5KdY1dG_nHG-T9ZWEzcH6u1sbhGH6r8m0z8XQvjVCbggm90QvqGkwQt0Q46uZbx2etTSjjTi7pWhpkT9RAdILmfjAKfm1pOmaey27LsAoEv5KLRhMPnaIeaw2NeAgVfiS1pAtLtqQ5-8qLGadVRJD5L-ChpPaeg4LuLfCe423xhKfrTc-0D9W7B5EkwkfYEjRYOK3VYvwDu-nEz7cN-d24Pqc75Kei5mO65xQNmXXbkoIYaCW3vYfD1DR-tssXZdTKZih6yWu78MQBs5USi4PultkPEt7hEd-0BEHHdE_u12Z6b3xe6lrLAA63GXpls48Pgp8_6vdlTn_tslvAnP28hu_edUdl0apG9O0t_2CtYjz_KTw"
+        },
+        {
+          "name": "Italian",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg",
+            "q": "italian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=italian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAH",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=italian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9BQrhACEfLHUyrrnI9vCBABKUA7T2diGAvPJUZgj7zAmokZkjUanVfTGvrfGM_l33zHCoXFQQRIKMAyzOH02khOWJL79hKkiSmDsRA606MVSBAwH8jHgEujSafFtV8900txZ_suwjnhbcK7FYPlDEX6uuHk3JSItruMJdYN0U7N3hIMYYOe6NzLHp-kYu_zlhNlYBZVGuo2CF2pF3qrE3wCZI8K1ejgWZ3TAFPPmRssRNDYbjyuUyobBU5cUmrwAkjBeWe3aLo63yVO50lhSEDzUoqZRR3oTgrfeWNk1lDYvJ76kgF0iq9HSiij_HQENAeKdqqeIxYxkfoZ6U_3I-7OmVOEbZ053vXNiqPnq7wBCYKs3hMO-DsqExmyX_MmFMyyY8IoWr5KKrRtur01eR4dGqdAG1rUicv8NADD89dhWXYVi74XIX4Otg-mOZPnOgWrAULoSya7nU0k4ZTX6ccOkk37UOnCRTRGKXBvIMiJ7rW7nO6ozdXb_ll7dFZHYdjyjKw4_WQLpXtS7k_02nKCJxp7Qv1CKwpGw68mEpmHvxPfGsoenCmEpDHj-SGHmA-3jOayFaBOcBS-K1L4eylj7HNLeOaTWKcwLXYINbNFSRs-zQ8saE2aoFSGNuL19Yx6iDPnszyodvMAE1qavWuEhDCjNkWemKD8LvbBf_fxJxEOZh_l3B04KspVPrH18oaepZLOg"
+        },
+        {
+          "name": "North indian",
+          "parameters": {
+            "uds": "ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g",
+            "q": "north indian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=north+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=north+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-Pd2CNTaSkMcVykObqv2F_SpN5rZqov5gIn9e-yl3-6Q8ofCoVfUc_Zr19M_56oi_1O5flZoeOTrrRT7rlEqMV-FdqxK4GPq7P5vabUiPyYsRd3cvrAMekm0u0-QD06f5X8whvosT8rOnmtbRiJpNrFR7uQ9hhoS_-9oRq-CYpw7PSy_ITrw9G7PbUDUSjNB0iJmhgQDi_ECRbc0jkxxdPCFX7KHXiWKBztHaa3prc-OY-oKQWdSQtDNN7qsdKKNiJR42SKdN6XrgXhWtp6uxkUXkHlU9PFPrhuvmoVUNnsuwIIIisZyTiKb9QjgLYJQGKmtHQohCgOKpsqMFbOVsacU9qY2SSACI8t2AVoLB_koc1LZQex_5ZxFS2GcTUc85rmIzNZ9d3kIh7nMtsWZNmiDcgQ0PUXmhHh0UCQuAAf2R4PySS43Uc9fuedwFzCOSyrb8CN6JDj2eBieGCPMOVO5MN6bvwKoAFdwlYmGCc62JQlxpPSOwUim2G84Oa1cWxNNpRpD_xZlb3Hg68UtzMit97qu7G7TJ10gKemBt08JU5Mca9oNxNoow8t6WY9oMDQJFN56WS20VloFDpa8ZF9BNQPNE9JQaL2AGMwcAXdOzNbZ-6jCuJMcioebQqjMzj7TWU4YjF8SGWlnzm3UgV1s9AKn2Ov_SCRz3MOa_0wrHZiwQItXpKPsiEfEGWAbcW337kb0g"
+        },
+        {
+          "name": "Pizza",
+          "parameters": {
+            "uds": "ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ",
+            "q": "pizza best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=pizza+best+food+in+ahmedabad&uds=ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAJ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=pizza+best+food+in+ahmedabad&uds=ABqPDvyiNFuOSDpBzkhAufHAZhE679I1APXQwoaNXU_kSQfAClehnmFSHpLuGYqkWMGbaGw2Kmrmp3HlYNNSkzhuZnD-Jny7jFZceMnIFXovqe6axmjkiTrCalpj1qFpuRhMKTE1WXWCqiPBAHzdTLIBrBlegpRgx9BKropOvM0MJEFR1MP2-Nhnx7hO8Upe32kbEBlcAWaAoYmba3WANtK7NCVxVmOLpjuJKNCDBeor0ZxXbPqNh0tqdHgDCjPCPYc7WDh295RD9bHceXAk9tecm4PsQcCDX-Uja1Zm6jS-PZ624VZEi8d5POD6jU5BpnMuxBxKwX82bEPAehv0t5iW3-Ke4ao_sRwhzKrc0jIEjeZCnGZiLW0OfiuunIi2bFUIqs_8FlRiQADSAdx1xlYrv2ewfQwcaKrwUEAeDsDwAGiEh7rQrsqAelFU44Ose9xJjHqDRG2TEGn3CXp3TxP0j8DUflBZCuXBETI56DX_RZnrA2s-k4GlUnEg_u-dtDSf59VS73lKxi9P6bHrhUafKF3cEx9Idftoy44EqiMA2lL9u4ASeP9z73ihqy0xjcyMOf8EVPYFyVhSHD1b3RkTj3cwEQujYmKu9uk9edyrJzobA8FI6mtrlw1DkR7L5G1e0JomgKLNSVJ3kDBhy61wsfutYeby4cEatlmyq7A9lrnUJbz9WuvvRpXqv-dExqv46bTSdO9toL7deh5KIAVOJznbUB9woQ"
+        },
+        {
+          "name": "Seafood",
+          "parameters": {
+            "uds": "ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg",
+            "q": "seafood best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=seafood+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=seafood+best+food+in+ahmedabad&uds=ABqPDvwiNaCeFdttIJYCfg5XigClLBhPXfhIQnaBelJyUeifMRyaCR3ABh5QlWwhGrehNxWwQ9wsOAYubaDViEf9vwUNEBhYTDKC_BuCUenNgNB75pL6-4d5DO03wPHnI6RrPve5Uee3Q2OphcgVI-8-KuL8IEiZVz_V5UYvgy2B5hv88iPj-AycUxP9HYlXKWKxFUqHseG7iCNR8QGc4xjYZNY-CpC8gSSD-Sm__-eqKvI2DVX2PZ4I4OM7dLTcax4RMmCRBMSmWAxpyPpJHbjPx4jMqMDjqbZUyQmupFaoAwl0ir8V_gc-dxvKokJgB4H1JBZU67C08PxtGNgbU9ozUhzUrAwPqbA0jiLxwpRlvty0_STnXEykz2fBnAKzwn0XQNrMBy6DDQTOlptWpDEdSD1e_7pES725G3qWa3L0T7-YHvUwsJ1rVmR9r-xj0fMvqlWm94PiEv8a0I2OSOeR--3Llp7mUud3hyQJvQ-TEVjXPP_E1NqrYKKZBS6R_adj8yhDs8kHh8tOvZMmNCLV_QAF-lyUDIDrldbQ-f5CLN7E3-JXywykJ6LYyU-m43twGcqhakmfvJi7v-l-2XPgTLrs1wlY1LTe1ww7jNO9LyYz9ZfOxVT9aIqgo126PyO6_Etj4YqTOZObqNNPjoqd5lvsIOMK7YYIMZOKGF4koQz8qvSbGN85Xt8f3WWC_dZedIKKGDbO6kiTe3nbWs_SVats71zVqg"
+        },
+        {
+          "name": "South indian",
+          "parameters": {
+            "uds": "ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ",
+            "q": "south indian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=south+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAL",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=south+indian+best+food+in+ahmedabad&uds=ABqPDvwKqzoSHIhT_s0fveKNY-PdWJkIQqpbZbIxn3gMFOeP-8ZHycyOL9lbE0aDgUxhK4c5P-UOyMUQGGSpKDtqDNQff5TmtNMcRe3G0Niwwi9j5eZwK7PtqmTK523ewTLqbjBLRkv9892kLcaNYrIQesSA33cFt6FeySxSEim3mJwQ6Ijn1QA6AoIF-_MlqTllVRFTk0nhh9Tti304Mj7XPb6JwWhyoRPIn7auVHROMHIS7R2bM2Di_tXMrqWSCMPRN9-Hb5u9346k2EMIx_VuKXYciyi0SJCfvWdIYyIFnFWCxWsbiIy78gGFY5L8iBoIzglKZF0x_qGGraC4HWuEvONLJZuoexmHgXgakY-GEdYT7RDvLaJ6SnM5eisHXF610Rv_wkv0u2F0HciWz6SdAtU6kvljbP5pDNzUnIPc8g2iW191Ocm82wEUxIJa-uWKcwfGgL5hPWdiYjAbvFlkGD_msoSQoAAWdC_DPFunHrk4QAqSAPK3RA9G27cH6fG9N5w2ik_TdsZv_nscQiaD4gkNr3PyHVcgE_UVyZzZDkyDYoTSL7zGzqpsOvZRekecOGSv2gzOW3SlHoD_IfEpP_bmorneCokAArvfi1NcLIMIvoQuGECpU9o1SrXIwcUkbwtTiGsIXrhHZM-ingdf0auxPf3J0qD_h4-WFfLk-eO2QL-a_hAD6Y8PFWU54qehCwGuWAE33_XFkEacQ5g6JkRYOT8LCQ"
+        },
+        {
+          "name": "Vegetarian",
+          "parameters": {
+            "uds": "ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw",
+            "q": "vegetarian best food in ahmedabad"
+          },
+          "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=vegetarian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QkbEKegQIMxAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=vegetarian+best+food+in+ahmedabad&uds=ABqPDvypQqnC-NN64l4SjJ_N5y9Bacy0VxYBzD6MAjq7ny_2tcgFfDI4gBGGnoquy2P1D1AbTN3k_oL1SBYnYlDUYa8zzI_rl74M5seSrfJxqhwvnxxlcjtxHe3qHQ_q3PxDtgL5iM8yyqdx726eq5SmXOCRg6p6gZzMz_fCW43OVvpgY8o1ybMvVoJaZ8ZcfTXOf-ZbxeoHUubzSsnmIEeztxaUCdUgg6NnSN1C3_hWOmcpOZE6k-EZHESkc5zfTde1OYqePp0dnXqO07uImUXwfI6Qr3m1CsmebqU6XItKlcynkdi1MLfccUUvmXNMRb0usXAv9bA0zNncTfBFa0mRaUQAEdhtkFWRAWw7-deAWm2Hu0YyBGfI3AHZMz9bhPyHMpbV0NE_dYR_KkZYVW9xRsZWSW3Y8QpoHsLXMad3QWZ2MNVLI46N2vuzprY4The35gZjtp4UdCsxIKpdjThrTqEYcrhvYdAO_4QEWZ8is62uD2DWTUe0YNjW9ezJaMq3h6ali7ICnp9xhF_KkG1Fwyw22YVz-FnCn6sW25ONXSCyIrrcgIYpUnCEbAZjowCXslZHRuvWDBc-SzJarhmv3yS_IgTRxPgsBUdfcUrGpbVKr8QQZgUmeadHhjDOJQRJeTY-2pUPwGfyo4pwRXKn71Dm10VL6c4XjlS1FwasOsPMNNnlIaag9Z10Ql8QqclMXng1UnYg83j4dea-Uo1MA2fmNL6_Tw"
+        }
+      ]
+    },
+    {
+      "name": "South Indian",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RR6Vm9NPZAFTgnNne0t6RSJv4S6zXYtgnAQMyRtN-kd3_Bc-VfqJ_QWqeTE9duEkk_8U7KvzIznpUp9Jts62SA1R4dE1zotiUnwhZEKYIoq-YVwUStnhGMh7Wj63ieDR7mE-YimZCMLC6g5nADPvPMBi-ivtRaXONQxITZdyC3saVIuPKc1rRGj3EsGmtqHtIWLQInjcpztUYSLNMQ7QpHDduMB6RifEIWqt056ucANeA-FTok",
+        "q": "Best South Indian food Ahmedabad"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+South+Indian+food+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR6Vm9NPZAFTgnNne0t6RSJv4S6zXYtgnAQMyRtN-kd3_Bc-VfqJ_QWqeTE9duEkk_8U7KvzIznpUp9Jts62SA1R4dE1zotiUnwhZEKYIoq-YVwUStnhGMh7Wj63ieDR7mE-YimZCMLC6g5nADPvPMBi-ivtRaXONQxITZdyC3saVIuPKc1rRGj3EsGmtqHtIWLQInjcpztUYSLNMQ7QpHDduMB6RifEIWqt056ucANeA-FTok&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegUIjQEQAQ&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+South+Indian+food+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RR6Vm9NPZAFTgnNne0t6RSJv4S6zXYtgnAQMyRtN-kd3_Bc-VfqJ_QWqeTE9duEkk_8U7KvzIznpUp9Jts62SA1R4dE1zotiUnwhZEKYIoq-YVwUStnhGMh7Wj63ieDR7mE-YimZCMLC6g5nADPvPMBi-ivtRaXONQxITZdyC3saVIuPKc1rRGj3EsGmtqHtIWLQInjcpztUYSLNMQ7QpHDduMB6RifEIWqt056ucANeA-FTok"
+    },
+    {
+      "name": "Unique places to eat",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRA7VbJGu5eTer-bCx76qODN_iD4Ir2VvKsQ9A9SGA6NOvZws3deT0MBXwwx25BlnVhi0IaYbGbTlxE7KM6Lnr78c0vZEKjXZDUUfbL0YN43zlayTuwdigeZMUgiZMXG0534g53CS1Q_5c9mUBANYXs8fk1tlXCFvjsDS3IOONf6Eqw4N7H3e1yR3aSXZ_bYHFuMmH0oeJkfwq6A7lDamkWriTOMJuaJ5g0MfPoi_bJUZMauKg",
+        "q": "Unique places to eat in Ahmedabad"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Unique+places+to+eat+in+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRA7VbJGu5eTer-bCx76qODN_iD4Ir2VvKsQ9A9SGA6NOvZws3deT0MBXwwx25BlnVhi0IaYbGbTlxE7KM6Lnr78c0vZEKjXZDUUfbL0YN43zlayTuwdigeZMUgiZMXG0534g53CS1Q_5c9mUBANYXs8fk1tlXCFvjsDS3IOONf6Eqw4N7H3e1yR3aSXZ_bYHFuMmH0oeJkfwq6A7lDamkWriTOMJuaJ5g0MfPoi_bJUZMauKg&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegUIjAEQAQ&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Unique+places+to+eat+in+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRA7VbJGu5eTer-bCx76qODN_iD4Ir2VvKsQ9A9SGA6NOvZws3deT0MBXwwx25BlnVhi0IaYbGbTlxE7KM6Lnr78c0vZEKjXZDUUfbL0YN43zlayTuwdigeZMUgiZMXG0534g53CS1Q_5c9mUBANYXs8fk1tlXCFvjsDS3IOONf6Eqw4N7H3e1yR3aSXZ_bYHFuMmH0oeJkfwq6A7lDamkWriTOMJuaJ5g0MfPoi_bJUZMauKg"
+    },
+    {
+      "name": "Chinese",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRf-tPrLqnrdgUFGMuPGGz_7wQCQ2AI95vhTPwD6EXT4IJYRwxIaoBRmoOi4atod6TubLub51rCnaGW3Gd5Q7dYktIPfurOXSrAdF0nrVzRPiiPwiCobBZA0ltmww32ujAyOF60m_esMoyBzNchAy3_c83zjkpuLKvR_VvFCQsn-xNyitEsBS__X8A0C6texRi2tgYPCy65FCw3WVCjs96ELvA8TY",
+        "q": "Best Chinese food Ahmedabad"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+Chinese+food+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRf-tPrLqnrdgUFGMuPGGz_7wQCQ2AI95vhTPwD6EXT4IJYRwxIaoBRmoOi4atod6TubLub51rCnaGW3Gd5Q7dYktIPfurOXSrAdF0nrVzRPiiPwiCobBZA0ltmww32ujAyOF60m_esMoyBzNchAy3_c83zjkpuLKvR_VvFCQsn-xNyitEsBS__X8A0C6texRi2tgYPCy65FCw3WVCjs96ELvA8TY&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegUIkQEQAQ&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+Chinese+food+Ahmedabad&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRf-tPrLqnrdgUFGMuPGGz_7wQCQ2AI95vhTPwD6EXT4IJYRwxIaoBRmoOi4atod6TubLub51rCnaGW3Gd5Q7dYktIPfurOXSrAdF0nrVzRPiiPwiCobBZA0ltmww32ujAyOF60m_esMoyBzNchAy3_c83zjkpuLKvR_VvFCQsn-xNyitEsBS__X8A0C6texRi2tgYPCy65FCw3WVCjs96ELvA8TY"
+    },
+    {
+      "name": "Restaurants",
+      "parameters": {
+        "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRjppx34ygzYbvmk_apWdkJ8Q6fysAr0d55Dl3S9CToTmluN7RHicpb-xno1Eap8ul20WgmrL9zVQPvQYZzQ8z0x7xaUdZx9MUhRmphekjt47K6UskWfXUEXv_3f6kjy-GemjrttzP6aXPOqBt-dznteZiwZeDkui2TiS8Py3gmOkZwFnNPJ-spEJVJieQsJXuRbEmGfA-tYG5fj2deNqsOOHiNOd68Lp610FFnfT7Gu-qg6-ynJz2C6Em3OK4UaPtciSNew",
+        "q": "Best restaurants in Ahmedabad for family dinner"
+      },
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+restaurants+in+Ahmedabad+for+family+dinner&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjppx34ygzYbvmk_apWdkJ8Q6fysAr0d55Dl3S9CToTmluN7RHicpb-xno1Eap8ul20WgmrL9zVQPvQYZzQ8z0x7xaUdZx9MUhRmphekjt47K6UskWfXUEXv_3f6kjy-GemjrttzP6aXPOqBt-dznteZiwZeDkui2TiS8Py3gmOkZwFnNPJ-spEJVJieQsJXuRbEmGfA-tYG5fj2deNqsOOHiNOd68Lp610FFnfT7Gu-qg6-ynJz2C6Em3OK4UaPtciSNew&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24QxKsJegUIjwEQAQ&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+restaurants+in+Ahmedabad+for+family+dinner&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjppx34ygzYbvmk_apWdkJ8Q6fysAr0d55Dl3S9CToTmluN7RHicpb-xno1Eap8ul20WgmrL9zVQPvQYZzQ8z0x7xaUdZx9MUhRmphekjt47K6UskWfXUEXv_3f6kjy-GemjrttzP6aXPOqBt-dznteZiwZeDkui2TiS8Py3gmOkZwFnNPJ-spEJVJieQsJXuRbEmGfA-tYG5fj2deNqsOOHiNOd68Lp610FFnfT7Gu-qg6-ynJz2C6Em3OK4UaPtciSNew"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best food in ahmedabad for dinner",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+food+in+ahmedabad+for+dinner&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+food+in+ahmedabad+for+dinner"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 restaurants in Ahmedabad",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Top+10+restaurants+in+Ahmedabad&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Top+10+restaurants+in+Ahmedabad"
+    },
+    {
+      "block_position": 1,
+      "query": "Best food in ahmedabad for lunch",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+food+in+ahmedabad+for+lunch&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+food+in+ahmedabad+for+lunch"
+    },
+    {
+      "block_position": 1,
+      "query": "Famous street food places in Ahmedabad",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Famous+street+food+places+in+Ahmedabad&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Famous+street+food+places+in+Ahmedabad"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 restaurants in Ahmedabad with Price",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Top+10+restaurants+in+Ahmedabad+with+Price&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Top+10+restaurants+in+Ahmedabad+with+Price"
+    },
+    {
+      "block_position": 1,
+      "query": "Best restaurants in Ahmedabad for family dinner",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+restaurants+in+Ahmedabad+for+family+dinner&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+restaurants+in+Ahmedabad+for+family+dinner"
+    },
+    {
+      "block_position": 1,
+      "query": "Best restaurants in Ahmedabad for friends",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Best+restaurants+in+Ahmedabad+for+friends&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Best+restaurants+in+Ahmedabad+for+friends"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 street food in Ahmedabad",
+      "link": "https://www.google.com/search?num=20&sca_esv=44785faec4b38403&q=Top+10+street+food+in+Ahmedabad&sa=X&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=Top+10+street+food+in+Ahmedabad"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=20&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8NMDegQIBxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=20&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=40&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=60&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=80&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=100&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=120&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=140&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=best+food+in+ahmedabad&num=20&sca_esv=44785faec4b38403&ei=l5obaOKvJ_Lq1e8P0PzO8AY&start=160&sa=N&sstk=Af40H4VvDNxYs7NaWYnc1yPO7znTDDwVwhHnLmuYNnaOCIOPtS_Has4f-RAaN6BaT82Mh4uztJxSFctDAoM7p1ycE4kbVebfzJ9-Jg&ved=2ahUKEwii15Gd85GNAxVydfUHHVC-E24Q8tMDegQIBxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=20",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=20",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=20",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=40",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=60",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=80",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=100",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=120",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=140",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=20&q=best+food+in+ahmedabad&start=160"
+    }
+  }
+}

@@ -121,8 +121,9 @@ This will load the saved model and vectorizer, predict the category for new data
 ├── phase1_crawler.py      # Script for crawling Google search results
 ├── phase2_scraper.py      # Contains scraping logic for extracting data
 ├── phase3_model.py        # Script for training the classification model
-├── phase4_automation.py   # Automation script for the entire process
-├── phase5_predictor.py    # Script for prediction and evaluation
+├── phase4_refine.py       # Refining and Structuring Data
+├── phase5_automation.py   # Automation script for the entire process
+├── phase6_predictor.py    # Script for prediction and evaluation
 ├── data                   # Data directory for storing raw and refined data
 │   ├── raw                # Contains raw data (URLs from Google)
 │   ├── refined            # Contains scraped data (titles, descriptions, content)
